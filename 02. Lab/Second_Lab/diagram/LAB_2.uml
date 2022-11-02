@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/kirillvelyugo/Documents/ITMO/Programming/ITMOLabs/02. Lab/Second_Lab</OriginalElement>
+  <nodes>
+    <node x="-399.14211215820865" y="687.7284031938082">pokemons.Ludicolo</node>
+    <node x="847.9477345091077" y="681.8991933232371">attacks.statusAttacks.Amnesia</node>
+    <node x="942.9956323120884" y="105.48197917552216">ru.ifmo.se.pokemon.Move</node>
+    <node x="847.9477345091077" y="842.1720596979034">attacks.statusAttacks.Rest</node>
+    <node x="848.4477345091077" y="762.0356265105702">attacks.statusAttacks.TailWhip</node>
+    <node x="461.8235512737814" y="888.6257402303657">attacks.specialAttacks.MegaDrain</node>
+    <node x="849.8492530082257" y="922.3084928852365">attacks.statusAttacks.Growl</node>
+    <node x="174.5515602614439" y="1075.5841034470109">attacks.physicalAttacks.ZenHeadbutt</node>
+    <node x="461.3235512737814" y="703.6298216332231">attacks.specialAttacks.Thunder</node>
+    <node x="-399.14211215820865" y="573.8335645145481">pokemons.Lombre</node>
+    <node x="461.3235512737813" y="448.96340477081174">ru.ifmo.se.pokemon.SpecialMove</node>
+    <node x="175.0515602614439" y="796.1277809317944">attacks.physicalAttacks.RockSlide</node>
+    <node x="175.0515602614439" y="703.6298216332231">attacks.physicalAttacks.Tackle</node>
+    <node x="-131.27653446298115" y="94.48197917552216">main</node>
+    <node x="-171.77653446298115" y="448.64839603793354">pokemons.Psyduck</node>
+    <node x="461.3235512737814" y="796.1277809317944">attacks.specialAttacks.FocusBlast</node>
+    <node x="-170.5370429590557" y="562.3668395687962">pokemons.Golduck</node>
+    <node x="-625.3267462840357" y="492.3536383930624">pokemons.Miltank</node>
+    <node x="-403.87549322504924" y="94.48197917552216">ru.ifmo.se.pokemon.Pokemon</node>
+    <node x="79.05156026144391" y="448.96340477081174">ru.ifmo.se.pokemon.PhysicalMove</node>
+    <node x="458.3235512737813" y="193.98197917552216">ru.ifmo.se.pokemon.DamageMove</node>
+    <node x="174.5515602614439" y="888.6257402303657">attacks.physicalAttacks.BodySlam</node>
+    <node x="923.4956323120884" y="448.96340477081174">ru.ifmo.se.pokemon.StatusMove</node>
+    <node x="174.5515602614439" y="981.1236995289371">attacks.physicalAttacks.Facade</node>
+    <node x="-392.87549322504924" y="458.10653041204534">pokemons.Lotad</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pokemons.Golduck" target="pokemons.Psyduck" relationship="GENERALIZATION">
+      <point x="-0.7394915039254499" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="attacks.physicalAttacks.RockSlide" target="ru.ifmo.se.pokemon.PhysicalMove" relationship="GENERALIZATION">
+      <point x="62.5000117701785" y="-3.553365048105661E-4" />
+      <point x="348.5855720316224" y="822.6274255952897" />
+      <point x="111.0340117701785" y="48.50002082447784" />
+    </edge>
+    <edge source="attacks.statusAttacks.Amnesia" target="ru.ifmo.se.pokemon.StatusMove" relationship="GENERALIZATION">
+      <point x="-57.49976960191168" y="-3.960379334841946E-4" />
+      <point x="984.2068627101768" y="708.3987972853037" />
+      <point x="-92.28876960191167" y="48.50002082447784" />
+    </edge>
+    <edge source="pokemons.Ludicolo" target="pokemons.Lombre" relationship="GENERALIZATION">
+      <point x="-3.9057468419268844" y="-26.316412384104012" />
+      <point x="-316.04785900013553" y="672.5046935239932" />
+      <point x="-315.14211215820865" y="672.5046935239932" />
+      <point x="-315.14211215820865" y="626.8335645145481" />
+      <point x="-60.16517904694513" y="26.5" />
+    </edge>
+    <edge source="attacks.specialAttacks.Thunder" target="ru.ifmo.se.pokemon.SpecialMove" relationship="GENERALIZATION">
+      <point x="56.51582426181926" y="4.756914851034708" />
+      <point x="616.8232386982888" y="734.8867364842578" />
+      <point x="-3.125754924440116E-4" y="48.50002082447784" />
+    </edge>
+    <edge source="pokemons.Psyduck" target="ru.ifmo.se.pokemon.Pokemon" relationship="GENERALIZATION">
+      <point x="-3.709426788134351E-4" y="-26.500149083647983" />
+      <point x="-85.27690540565996" y="419.78424695428555" />
+      <point x="-314.875770832086" y="419.78424695428555" />
+      <point x="-2.7760703675028253E-4" y="148.00026777876337" />
+    </edge>
+    <edge source="pokemons.Miltank" target="ru.ifmo.se.pokemon.Pokemon" relationship="GENERALIZATION">
+      <point x="-1.5912162422182519E-4" y="-26.500391438776887" />
+      <point x="-542.32690540566" y="419.78424695428555" />
+      <point x="-314.875770832086" y="419.78424695428555" />
+      <point x="-2.7760703675028253E-4" y="148.00026777876337" />
+    </edge>
+    <edge source="attacks.physicalAttacks.BodySlam" target="ru.ifmo.se.pokemon.PhysicalMove" relationship="GENERALIZATION">
+      <point x="63.0000117701785" y="-3.1463507616535935E-4" />
+      <point x="348.5855720316224" y="915.1254255952896" />
+      <point x="111.0340117701785" y="48.50002082447784" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.StatusMove" target="ru.ifmo.se.pokemon.Move" relationship="GENERALIZATION">
+      <point x="-4.792453428308363E-4" y="-48.49997917552216" />
+      <point x="1076.4951530667456" y="413.9814255952896" />
+      <point x="1076.495483406314" y="413.9814255952896" />
+      <point x="-1.489057744947786E-4" y="137.00044641976743" />
+    </edge>
+    <edge source="attacks.statusAttacks.TailWhip" target="ru.ifmo.se.pokemon.StatusMove" relationship="GENERALIZATION">
+      <point x="58.342672899017316" y="3.6967806437203308" />
+      <point x="984.2068627101768" y="792.2324071542905" />
+      <point x="-92.28876960191167" y="48.50002082447784" />
+    </edge>
+    <edge source="pokemons.Lombre" target="pokemons.Lotad" relationship="GENERALIZATION">
+      <point x="0.2666189331594069" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="attacks.statusAttacks.Rest" target="ru.ifmo.se.pokemon.StatusMove" relationship="GENERALIZATION">
+      <point x="-45.49976960191168" y="2.9780537886381353E-4" />
+      <point x="975.858443539302" y="868.6723575032822" />
+      <point x="975.858443539302" y="868.6720596979034" />
+      <point x="984.2068627101768" y="868.6720596979034" />
+      <point x="-92.28876960191167" y="48.50002082447784" />
+    </edge>
+    <edge source="attacks.statusAttacks.Growl" target="ru.ifmo.se.pokemon.StatusMove" relationship="GENERALIZATION">
+      <point x="47.04453463876462" y="1.2060123115675196" />
+      <point x="984.2068627101768" y="950.0145051968041" />
+      <point x="-92.28876960191167" y="48.50002082447784" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.SpecialMove" target="ru.ifmo.se.pokemon.DamageMove" relationship="GENERALIZATION">
+      <point x="-155.49997924215887" y="4.4641976739967504E-4" />
+      <point x="427.0855720316224" y="497.46385119057913" />
+      <point x="427.0855720316224" y="242.48242559528958" />
+      <point x="-158.49997924215887" y="4.464197674227677E-4" />
+    </edge>
+    <edge source="attacks.physicalAttacks.Facade" target="ru.ifmo.se.pokemon.PhysicalMove" relationship="GENERALIZATION">
+      <point x="53.5000117701785" y="0.9812223097511605" />
+      <point x="348.5855720316224" y="1008.6049218386883" />
+      <point x="111.0340117701785" y="48.50002082447784" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.DamageMove" target="ru.ifmo.se.pokemon.Move" relationship="GENERALIZATION">
+      <point x="158.5" y="-0.0" />
+      <point x="-133.5" y="-0.0" />
+    </edge>
+    <edge source="pokemons.Lotad" target="ru.ifmo.se.pokemon.Pokemon" relationship="GENERALIZATION">
+      <point x="-0.19272062742680873" y="-24.356849834084073" />
+      <point x="-315.06821385247605" y="419.78424695428555" />
+      <point x="-314.875770832086" y="419.78424695428555" />
+      <point x="-2.7760703675028253E-4" y="148.00026777876337" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.PhysicalMove" target="ru.ifmo.se.pokemon.DamageMove" relationship="GENERALIZATION">
+      <point x="158.5000117701785" y="2.0824477843461864E-5" />
+      <point x="427.0855720316224" y="497.46342559528955" />
+      <point x="427.0855720316224" y="242.48242559528958" />
+      <point x="-158.49997924215887" y="4.464197674227677E-4" />
+    </edge>
+    <edge source="attacks.specialAttacks.FocusBlast" target="ru.ifmo.se.pokemon.SpecialMove" relationship="GENERALIZATION">
+      <point x="66.07384371888429" y="0.06197376537090804" />
+      <point x="616.8232386982888" y="822.6897546971653" />
+      <point x="-3.125754924440116E-4" y="48.50002082447784" />
+    </edge>
+    <edge source="attacks.specialAttacks.MegaDrain" target="ru.ifmo.se.pokemon.SpecialMove" relationship="GENERALIZATION">
+      <point x="66.00002075784107" y="-3.9695572368203216" />
+      <point x="616.8235512737813" y="911.1561829935454" />
+      <point x="616.8235512737813" y="775.9814255952896" />
+      <point x="616.8232386982888" y="775.9814255952896" />
+      <point x="-3.125754924440116E-4" y="48.50002082447784" />
+    </edge>
+    <edge source="attacks.physicalAttacks.Tackle" target="ru.ifmo.se.pokemon.PhysicalMove" relationship="GENERALIZATION">
+      <point x="51.0000117701785" y="-3.960379334841946E-4" />
+      <point x="348.5855720316224" y="730.1294255952896" />
+      <point x="111.0340117701785" y="48.50002082447784" />
+    </edge>
+    <edge source="attacks.physicalAttacks.ZenHeadbutt" target="ru.ifmo.se.pokemon.PhysicalMove" relationship="GENERALIZATION">
+      <point x="-3.9962663373671603E-4" y="-26.49967785172123" />
+      <point x="249.55116063481017" y="1102.0841034470109" />
+      <point x="348.5855720316224" y="1102.0841034470109" />
+      <point x="111.0340117701785" y="48.50002082447784" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6311300639658848" showDependencies="false" x="302.0" y="611.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
