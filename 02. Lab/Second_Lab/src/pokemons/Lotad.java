@@ -5,7 +5,7 @@ import attacks.statusAttacks.Rest;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public class Lotad extends Pokemon
+public class Lotad extends New_Pokemon
 {
     public Lotad (String name, int lvl)
     {

@@ -7,7 +7,7 @@ import attacks.specialAttacks.Thunder;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public class Miltank extends Pokemon
+public class Miltank extends New_Pokemon
 {
     public Miltank (String name, int lvl)
     {

@@ -6,7 +6,7 @@ import attacks.statusAttacks.TailWhip;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public class Psyduck extends Pokemon
+public class Psyduck extends New_Pokemon
 {
     public Psyduck(String name, int lvl)
     {
