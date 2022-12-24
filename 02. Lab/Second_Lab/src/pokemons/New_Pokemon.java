@@ -4,11 +4,12 @@ import ru.ifmo.se.pokemon.Pokemon;
 
 public class New_Pokemon extends Pokemon
 {
-    private boolean correct_lvl = true;
+    public boolean correct_lvl = true;
 
     public New_Pokemon(String name, int lvl)
     {
         super(name, lvl);
+        boolean correct_lv2l = true;
         if (lvl > 100 || lvl < 1)
         {
             correct_lvl = false;

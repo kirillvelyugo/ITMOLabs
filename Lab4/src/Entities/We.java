@@ -20,8 +20,8 @@ public class We extends Entity {
         System.out.println(this.getName() + " смотрит на " + location.getName());
     }
 
-    public void walk (Place location){
-        System.out.println(this.getName() + " отправился в прогулку в " + location.getName());
+    public void walk (){
+        System.out.println(this.getName() + " отправился в прогулку в " + this.getLocation().getName());
     }
 
     public void leaveTransport (Transport transport){

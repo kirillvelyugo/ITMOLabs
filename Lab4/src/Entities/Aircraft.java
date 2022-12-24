@@ -12,24 +12,18 @@ public class Aircraft extends Transport implements Flyable {
         super(name, location);
     }
 
-    public void getPassenger (Entity passenger){
+    public void setPassenger (Entity passenger){
         this.passenger = passenger;
         System.out.printf("В самолет сел " + passenger.getName() + "\n");
     }
 
-    public void changePassenger (Entity passenger){
-        if (this.passenger != null) {
-            System.out.print("Вместо " + this.passenger.getName() + " в самолет сел " + passenger + "\n");
-        } else {
-            System.out.println("В самолет сел " + passenger + "\n");
-        }
-        this.passenger = passenger;
+    public Entity getPassenger() {
+        return passenger;
     }
 
     @Override
     public void takeOff(Place direction) {
         if (this.lvl_fuel >= 0){
-            this.lvl_fuel = 100;
             System.out.printf(this.getName() + " взлетел из " + this.location.getName() + "и отправился в " + direction.getName() + "!\n");
             this.direction = direction;
             this.lvl_fuel -= 15;

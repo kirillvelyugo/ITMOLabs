@@ -31,7 +31,7 @@ public class Program {
         System.out.println(we);
 
         // Actions
-        plane.getPassenger(we);
+        plane.setPassenger(we);
         plane.takeOff(iceDesert);
         plane.fly();
 
@@ -49,11 +49,13 @@ public class Program {
 
         we.lookAround(footHills);
         we.leaveTransport(plane);
-        we.walk(footHills);
+        we.walk();
 
-        plane.getPassenger(we);
+        plane.setPassenger(we);
         plane.takeOff(city);
         plane.fly();
+
+        System.out.println(we.hashCode());
     }
 
 }
