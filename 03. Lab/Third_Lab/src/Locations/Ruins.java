@@ -1,17 +1,12 @@
 package Locations;
 
+import Utils.Grade;
+
 public class Ruins extends Place{
-
-    public enum Grade {
-        NORMAL,
-        BAD,
-        GOOD,
-    }
-
     private Grade gradeRuins;
 
-    public Ruins(String name, int x, int y) {
-        super(name, x, y);
+    public Ruins(String name, int x, int y, boolean abilityLand) {
+        super(name, x, y, abilityLand);
     }
 
     public Grade getGradeRuins() {

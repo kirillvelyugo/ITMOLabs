@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2eed6c1-cec8-4add-a0a3-5ccb9d39cfe5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/out/production/untitled/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02. Lab/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Creatures/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third_Lab/Locations/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/FootHills.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third_Lab/Locations/FootHills.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/IceDesert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third_Lab/Locations/IceDesert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/Locatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/Place.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third_Lab/Locations/Place.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/River$TypeRiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/River.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third_Lab/Locations/River.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/Ruins$Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Locations/Ruins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third_Lab/Locations/Ruins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Third_Lab/Utils/Visible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creatures/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/FootHills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations/FootHills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/IceDesert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations/IceDesert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/Locatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/River.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations/River.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Locations/Ruins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations/Ruins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils/Visible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Diagram/diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Lab4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Entities/Aircraft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Entities/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Entities/Transport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Entities/We.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Locations/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Locations/FootHills.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Locations/IceDesert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Locations/Place.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Locations/River.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Locations/Ruins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Utils/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Utils/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Utils/Locatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Utils/TypeRiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/out/production/Lab4/Utils/WeatherType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Entities/Aircraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Entities/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Entities/Transport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Entities/We.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Locations/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Locations/FootHills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Locations/IceDesert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Locations/Place.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Locations/River.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Locations/Ruins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Utils/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Utils/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Utils/Locatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Utils/TypeRiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/src/Utils/WeatherType.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2K7OdCF7ROh8FLAugIcY2vMVCGY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2eed6c1-cec8-4add-a0a3-5ccb9d39cfe5" name="Changes" comment="" />
+      <created>1673322239835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673322239835</updated>
+      <workItem from="1673322241033" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,16 +1,12 @@
 package Locations;
 
+import Utils.TypeRiver;
+
 public class River extends Place{
-
-    public enum TypeRiver {
-        STORMY,
-        CALM,
-    }
-
     private TypeRiver type;
 
-    public River(String name, int x, int y) {
-        super(name, x, y);
+    public River(String name, int x, int y, boolean abilityLand) {
+        super(name, x, y, abilityLand);
     }
 
     public void setType(TypeRiver type){

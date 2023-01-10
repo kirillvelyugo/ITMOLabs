@@ -1,26 +1,31 @@
 package Locations;
 
-import Utils.Visible;
 import Utils.WeatherType;
 
 import java.util.Objects;
 
-public abstract class Place implements Visible {
+public abstract class Place {
     private String name = "Unnamed";
     private WeatherType weatherType = null;
+    private final boolean abilityLand;
     private final int x;
     private final int y;
 
-    public Place(String name, int x, int y){
+    public Place(String name, int x, int y, boolean abilityLand){
         if (name != null){
             this.name = name;
         }
         this.x = x;
         this.y = y;
+        this.abilityLand = abilityLand;
     }
 
     public void setWeatherType(WeatherType weatherType){
         this.weatherType = weatherType;
+    }
+
+    public boolean getAbilityLand (){
+        return this.abilityLand;
     }
 
     public String getName(){
@@ -36,14 +41,8 @@ public abstract class Place implements Visible {
     }
 
     @Override
-    public String getView(){
-        return name + " at cords " + x + " " + y;
-    }
-
-
-    @Override
     public String toString() {
-        return "Place: " + this.name + "\nWeather: " + this.weatherType + "\nCords: (" + this.x + "," + this.y + ") + \n";
+        return "Place: " + this.name + "\nWeather: " + this.weatherType + "\nAbility to land: " + this.abilityLand + "\n";
     }
 
     @Override

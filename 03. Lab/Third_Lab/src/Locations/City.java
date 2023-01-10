@@ -5,8 +5,8 @@ public class City extends Place{
     private final int width;
     private final int countBuildings;
 
-    public City(String name, int x, int y, int length, int width, int countBuildings){
-        super(name, x, y);
+    public City(String name, int x, int y, int length, int width, int countBuildings, boolean abilityLand){
+        super(name, x, y, abilityLand);
         this.length = length;
         this.width = width;
         this.countBuildings = countBuildings;
